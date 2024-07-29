@@ -1,7 +1,7 @@
 # REACT- Expense Manager App
 
 <i>Simple Expense Manager</i>
-
+![React-Expense-Manager-UI.png](React-Expense-Manager-UI.png)
 Check it out <a href="https://github.com/Breedlove-Jason/expenseManager.git">here</a>
 
 ## Summary
