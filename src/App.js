@@ -3,7 +3,6 @@ import "./App.css";
 import NewExpense from "./components/NewExpense/NewExpense";
 import Expenses from "./components/Expenses";
 import React, { useState } from "react";
-import ExpenseItem from "./components/ExpenseItem";
 
 const App = () => {
   const [expenses, setExpenses] = useState([]);
